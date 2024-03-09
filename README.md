@@ -1,2 +1,2 @@
 # langchain
-Build a Langchain app with Javascript and Openai
+Build a Langchain app with Python and Openai
